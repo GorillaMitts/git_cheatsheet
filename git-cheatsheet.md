@@ -2,23 +2,20 @@
 
 ## Git: Configurations
 
-###Set User Name  
-
+### Set User Name
 ```
 $ git config --global user.name "FirstName LastName"
 ```
-###Set User Email  
-
+### Set User Email
 ```
 $ git config --global user.email "your-email@email-provider.com"
 ```
-###Turn on UI Colors  
+### Turn on UI Colors
 
 ```
 $ git config --global color.ui true
 ```
-###Show current git settings  
-
+### Show current git settings
 ```
 $ git config --list
 ```
